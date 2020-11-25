@@ -1,6 +1,9 @@
 # CORD Bachelor Degree Thesis
 
 ## Packet Captures
+Packet captures performed at SiaB:
+* [**Capture 4.1**](https://github.com/marcllena/cord-packet-captures/blob/main/Capt_4-1_RG-BNG-pings.pcap):
+Info: Ping between RG and BNG captured at nni interface (between OLT and AGG switch). Deployment IPs: RG (*172.18.0.77*), BNG (*172.18.0.10*)...
 
 Packet captures performed at CiaB:
 * [**Capture 7.1**](https://github.com/marcllena/cord-packet-captures/blob/main/Capt_7-1_LTE-attach.pcap):
